@@ -13,7 +13,7 @@ ReyPhone adalah website internal toko HP ReyPhone yang berguna untuk menyimpan d
 ReyPhone Website dibangun dengan teknologi berikut:
 * [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML) - standard markup language for documents designed to be displayed in a web browser.
 * [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS) - style sheet language used for describing the presentation of a document written in markup language.
-* [BOOTSTRAP](https://getbootstrap.com/) - The most populat HTML, CSS, and JS library in the world.
+* [Bootstrap](https://getbootstrap.com/) - The most populat HTML, CSS, and JS library in the world.
 * [PHP](https://www.php.net) - Popular general-purpose scripting language that is especially suited to web development.
 * [Visual Studio Code](https://code.visualstudio.com/) - powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux.
 * [XAMPP](https://www.apachefriends.org/index.html) - XAMPP is a completely free, easy to install Apache distribution containing MariaDB, PHP, and Perl.
@@ -28,6 +28,7 @@ to your HTML tables the free & easy way.
 
 * XAMPP 7.4.9 or later
 * PHP 7.2 or later
+* Bootstrap 5.1.3 or later
 
 ## Structure
 
